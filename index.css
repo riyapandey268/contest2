@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto", sans-serif;
+  }
+  .companyname {
+    margin-left: 40px;
+    cursor: pointer;
+  }
+  
+  .navbar {
+    background-color: black;
+    height: 40px;
+    padding: 10px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .menusection ul li {
+    list-style: none;
+    margin-left: 50px;
+    cursor: pointer;
+  }
+  .menusection ul {
+    display: flex;
+    margin-right: 20px;
+  }
+  
+  .firstsection {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 78vw;
+  
+    margin-left: 150px;
+  }
+  .imagesection img {
+    height: 600px;
+    width: 500px;
+    margin-top: 10px;
+  }
+  
+  .textsection {
+    width: 600px;
+    margin-top: 15px;
+  }
+  .heading {
+    margin-bottom: 15px;
+  }
+  .button button {
+    height: 34px;
+    background-color: black;
+    width: 100px;
+    margin-top: 20px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+  
+    letter-spacing: 0.6px;
+  }
+  .description p {
+    line-height: 30px;
+  }
+  .fleximages img {
+    height: 440px;
+    width: 370px;
+    margin-left: 20px;
+  }
+  .secondsection {
+    padding-left: 150px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 78vw;
+    margin-left: 20px;
+  }
+  .secondheading {
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+  .secondimagesec {
+    margin-top: 20px;
+  }
+  .secondheading h1 {
+    margin-left: 10px;
+  }
+
+
+
